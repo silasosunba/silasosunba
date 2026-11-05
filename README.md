@@ -7,7 +7,7 @@ My expertise is in designing and deploying scalable machine learning systems. I 
 - 🥷 i'm currently working on intriguing **artificial intelligence projects**.  
 - 👥 i'm interested in collaborating on **machine learning, computer vision, and autonomous systems projects**, including making open-source contributions.  
 - 📩 you can reach me at: **[osunbasilas@gmail.com](mailto:osunbasilas@gmail.com)**  
-- ♣️ fun fact: i love reading AI research papers and i love typing in small letters.
+- ♣️ fun fact: 6 years ago, my dream was to become a rapper/trapstar and i also have a published song on audiomack!
 
 ---
 
@@ -51,12 +51,12 @@ My expertise is in designing and deploying scalable machine learning systems. I 
 
 ## Portfolio
 check out my portfolio website:
-[**Silas Osunba**](https://osunbasilasdev.vercel.app/)
+[**Silas Osunba**](https://silasosunba.com/)
 
 ---
 
 <br>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=TolaniSilas&theme=radical" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=SilasOsunba&theme=radical" alt="GitHub Streak" />
 </p>
